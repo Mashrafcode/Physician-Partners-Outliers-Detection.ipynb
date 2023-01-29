@@ -1,4 +1,5 @@
 # Physician Partners : Outliers-Detection
+<img src="download.png" width=300px>
 
 ## Problem Stataement : 
 In this exercise, we are providing you with an example of financial data (all numbers are fictional).
